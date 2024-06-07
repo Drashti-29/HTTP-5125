@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\http-5125-assignment1-drashtipokiya\\controllers\\hostingcostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|solutionrelative:controllers\\hostingcostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\http-5125-assignment1-drashtipokiya\\controllers\\numbermachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|solutionrelative:controllers\\numbermachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\http-5125-assignment1-drashtipokiya\\controllers\\greetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|solutionrelative:controllers\\greetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\http-5125-assignment1-drashtipokiya\\controllers\\addtencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|solutionrelative:controllers\\addtencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\http-5125-assignment1-drashtipokiya\\controllers\\squarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE685E72-8634-4B90-A384-DEAF5ABFB172}|Assignment1.csproj|solutionrelative:controllers\\squarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HostingCostController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\HostingCostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HostingCostController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\HostingCostController.cs",
+              "RelativeToolTip": "Controllers\\HostingCostController.cs",
+              "ViewState": "AQIAAA4AAACAZmZmZmYswBgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:27:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberMachineController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\NumberMachineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NumberMachineController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\NumberMachineController.cs",
+              "RelativeToolTip": "Controllers\\NumberMachineController.cs",
+              "ViewState": "AQIAACEAAABAZmZmZmYgwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:22:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreetingController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\GreetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GreetingController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\GreetingController.cs",
+              "RelativeToolTip": "Controllers\\GreetingController.cs",
+              "ViewState": "AQIAABkAAACAZmZmZmYGwBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:14:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SquareController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\SquareController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SquareController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\SquareController.cs",
+              "RelativeToolTip": "Controllers\\SquareController.cs",
+              "ViewState": "AQIAAA0AAAAAMzMzMzMLwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:02:44.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTenController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\AddTenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddTenController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment1-DrashtiPokiya\\Controllers\\AddTenController.cs",
+              "RelativeToolTip": "Controllers\\AddTenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:56:35.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
