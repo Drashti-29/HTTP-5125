@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment2-DrashtiPokiya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E23D4-E58D-4B17-A813-20E39D92B6B7}|assignment2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\http-5125-assignment2-drashtipokiya\\controllers\\delivedroidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E23D4-E58D-4B17-A813-20E39D92B6B7}|assignment2.csproj|solutionrelative:controllers\\delivedroidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E23D4-E58D-4B17-A813-20E39D92B6B7}|assignment2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\http-5125-assignment2-drashtipokiya\\controllers\\dicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E23D4-E58D-4B17-A813-20E39D92B6B7}|assignment2.csproj|solutionrelative:controllers\\dicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4E23D4-E58D-4B17-A813-20E39D92B6B7}|assignment2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\http-5125-assignment2-drashtipokiya\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4E23D4-E58D-4B17-A813-20E39D92B6B7}|assignment2.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelivEDroidController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment2-DrashtiPokiya\\Controllers\\DelivEDroidController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DelivEDroidController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment2-DrashtiPokiya\\Controllers\\DelivEDroidController.cs",
+              "RelativeToolTip": "Controllers\\DelivEDroidController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:03:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiceController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment2-DrashtiPokiya\\Controllers\\DiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiceController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment2-DrashtiPokiya\\Controllers\\DiceController.cs",
+              "RelativeToolTip": "Controllers\\DiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:48:18.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment2-DrashtiPokiya\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\HTTP-5125-assignment2-DrashtiPokiya\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AQIAAAAAAABwmZmZmZkvwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:07:39.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
