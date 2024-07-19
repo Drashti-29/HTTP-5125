@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment3\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "show.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Views\\Teacher\\show.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\show.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Views\\Teacher\\show.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T22:02:51.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:39:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAB0AAABAzMzMzAwiwCUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:06:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Views\\Teacher\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\List.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Views\\Teacher\\List.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T21:56:09.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:05:04.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherDataController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Controllers\\TeacherDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherDataController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Controllers\\TeacherDataController.cs",
+              "RelativeToolTip": "Controllers\\TeacherDataController.cs",
+              "ViewState": "AQIAAFUAAAAANDMzM/MgwCIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:04:27.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment3\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Models\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAcAAABg/P////8QwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:39:58.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

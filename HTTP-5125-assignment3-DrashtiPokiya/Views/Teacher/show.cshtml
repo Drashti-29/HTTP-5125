@@ -1,0 +1,44 @@
+﻿﻿@model Assignment3.Models.Teacher
+
+
+@{
+    ViewBag.Title = "Show";
+}
+
+<a class="navlink" href="/Teacher/List">Back To Teacher</a>
+<div id="containershow">
+    <h2>@Model.teacherFname @Model.teacherLname</h2>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Hire Date</th>
+            </tr>
+        </thead>
+        <tbody>
+                <tr>
+                    <td>@Model.teacherLname</td>
+                    <td>@Model.teacherFname</td>
+                    <td>@Model.Salary</td>
+                    <td>@Model.HireDate.ToString("yyyy-MM-dd")</td>
+                </tr>
+        </tbody>
+    </table>
+</div>
