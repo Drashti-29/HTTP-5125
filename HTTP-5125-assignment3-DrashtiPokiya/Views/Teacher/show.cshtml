@@ -29,13 +29,15 @@
                 <th>ID</th>
                 <th>First Name</th>
                 <th>Last Name</th>
+                <th>Salary</th>
                 <th>Hire Date</th>
             </tr>
         </thead>
         <tbody>
                 <tr>
-                    <td>@Model.teacherLname</td>
+                    <td>@Model.teacherId</td>
                     <td>@Model.teacherFname</td>
+                    <td>@Model.teacherLname</td>
                     <td>@Model.Salary</td>
                     <td>@Model.HireDate.ToString("yyyy-MM-dd")</td>
                 </tr>
