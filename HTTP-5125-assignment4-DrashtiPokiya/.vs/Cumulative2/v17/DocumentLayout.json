@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\views\\teacher\\ajax_new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:views\\teacher\\ajax_new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\views\\teacher\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:views\\teacher\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-reboot.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-reboot.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|c:\\users\\hp\\onedrive\\desktop\\humber\\back-end-development\\assignment4\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Cumulative2.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF67B1A-C0A1-4CCE-8D11-4F29FFF53AAE}|Assignment3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAB0AAABAzMzMzAwiwCUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:59:34.402Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:05:04.185Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ajax_New.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\Ajax_New.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\Ajax_New.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\Ajax_New.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\Ajax_New.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvykAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T22:40:37.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:17:29.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "Content\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "Content\\bootstrap-reboot.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T22:31:28.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap-reboot.rtl.css",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.rtl.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap-reboot.rtl.css",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.rtl.css",
+              "RelativeToolTip": "Content\\bootstrap-reboot.rtl.css",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T22:31:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "Content\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "Content\\bootstrap-reboot.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAADiZQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T22:31:25.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap-reboot.min.css",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.min.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap-reboot.min.css",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.min.css",
+              "RelativeToolTip": "Content\\bootstrap-reboot.min.css",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T22:31:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "Content\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "Content\\bootstrap-reboot.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABjQgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T22:31:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-reboot.css",
+              "RelativeToolTip": "Content\\bootstrap-reboot.css",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T22:31:22.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "Content\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "Content\\bootstrap-grid.rtl.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACFmgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T22:31:21.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "Content\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T22:31:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "Content\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "Content\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABHtgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T22:31:18.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap-grid.rtl.css",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.rtl.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap-grid.rtl.css",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.rtl.css",
+              "RelativeToolTip": "Content\\bootstrap-grid.rtl.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T22:31:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "Content\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "Content\\bootstrap-grid.min.css.map",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAjOAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T22:31:12.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "Content\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.css.map",
+              "RelativeToolTip": "Content\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABGMwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T22:31:09.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "Content\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T22:31:04.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1838936309:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\New.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\New.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\New.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\New.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAADwv3oAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T21:50:40.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteConfirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\DeleteConfirm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\DeleteConfirm.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\DeleteConfirm.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\DeleteConfirm.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T21:46:28.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\List.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\List.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T20:59:34.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "show.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\show.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\show.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\show.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\show.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T20:59:35.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:59:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "show.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\show.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\show.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\show.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T22:02:51.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:39:18.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAB0AAABAzMzMzAwiwCUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:06:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\List.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Views\\Teacher\\List.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T21:56:09.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherDataController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\TeacherDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherDataController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Controllers\\TeacherDataController.cs",
+              "RelativeToolTip": "Controllers\\TeacherDataController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAAJQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:04:27.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\humber\\back-end-development\\Assignment4\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Models\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAcAAABg/P////8QwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:39:58.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

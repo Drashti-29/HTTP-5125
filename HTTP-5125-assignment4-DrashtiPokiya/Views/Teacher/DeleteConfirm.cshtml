@@ -1,0 +1,77 @@
+﻿@model Assignment3.Models.Teacher
+
+@{
+    ViewBag.Title = "DeleteConfirm";
+}
+
+<div id="containershow">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        #containershow {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        nav {
+            margin-bottom: 20px;
+        }
+
+        .navlink {
+            font-weight: bold;
+            font-size: 18px;
+            text-decoration: none;
+            color: #d9534f;
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+            .navlink:hover {
+                color: #c9302c;
+            }
+
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #555;
+            margin-bottom: 20px;
+        }
+
+        .delbutton {
+            background-color: #d9534f;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            .delbutton:hover {
+                background-color: #c9302c;
+            }
+    </style>
+    <nav>
+        <a class="navlink" href="/Teacher/Show/@Model.teacherId">Cancel</a>
+    </nav>
+    <h2>Are you sure you want to delete @Model.teacherFname @Model.teacherLname?</h2>
+    <p>This action cannot be undone.</p>
+    <form method="POST" action="/Teacher/Delete/@Model.teacherId">
+        <button class="delbutton">
+            Confirm Delete
+        </button>
+    </form>
+</div>
